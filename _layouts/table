@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table, th, td {
+ padding: 15px;
+}
+</style>
+</head>
+</html>

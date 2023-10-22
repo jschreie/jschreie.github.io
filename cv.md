@@ -1,21 +1,17 @@
 ---
 layout: cv
-title: CV
+title: Current & Past Research
 ---
 
-# Curriculum Vitæ
+# Current & Past Research
 
 {% include contact.html %}
 
-## Section
+## Current Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+A section about what I am doing in my postdoc
 
-* Ut enim ad minim veniam
-* Quis nostrud exercitation
-* Ullamco laboris nisi
-* Ut aliquip ex ea commodo consequat
+## PhD Research
 
-### Subsection
+A section about my PhD work
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.

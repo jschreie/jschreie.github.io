@@ -3,7 +3,7 @@ layout: cv
 title: Current & Past Research
 ---
 
-# Current & Past Research
+## Contact
 
 {% include contact.html %}
 

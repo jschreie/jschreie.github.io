@@ -5,9 +5,10 @@ title: Home
 
 # About
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+I am a marine microbial ecologist who is passionate about understanding interactions between individuals and populations that occur in communities. I recieved my Bachelors of Marine Science from Rutgers in 2014, and my PhD in Marine Sciences from UGA in 2023 under the supervision of Dr. Mary Ann Moran. The science I have engaged in has heavily focused on the molecular and chemical mechanisms involved in interactions that occur in microbial communitites.
 
-This is the home page. It can be used for a short introduction. [Click here](/cv) to see the full CV, and [here](/cv.pdf) to download a print version. The theme also ships with a blog: [click here](/posts) to scroll posts from the most recent. Finally, [click here](/404) to see a page that can't be found.
+[Click here](/cv) to see the full CV and [here](/cv.pdf) to download the print version
+
 
 By default, the theme only contains these few pages in order to stay lean and flexible. However, it can be easily extended to accommodate more pages, [collections](https://jekyllrb.com/docs/collections/), [categories, and tags](https://jekyllrb.com/docs/posts/#tags-and-categories).
 

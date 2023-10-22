@@ -1,9 +1,9 @@
 # site settings
 
 title: Jeremy Schreier
-description: Marine microbial ecologist
+description: Jeremy Schreier
 taglong: PhD, Marine Sciences
-tagshort: Jekyll theme
+tagshort: Jeremy Schreier
 url: https://jschreie.github.io/
 baseurl: ""
 permalink: pretty

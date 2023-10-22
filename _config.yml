@@ -19,12 +19,11 @@ photo: /assets/jpg/selfshot.jpg
 # social media links
 
 social:
-  facebook: username
-  github: username
-  instagram: username
-  linkedin: username
+  github: jschreie
+  instagram: schreieroftheshire
+  linkedin: https://www.linkedin.com/in/jeremy-schreier-4a334094/
   stackoverflow: 0000000/username
-  twitter: username
+  twitter: jeremyschreier
 
 # build settings
 

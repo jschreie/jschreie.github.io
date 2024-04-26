@@ -1,5 +1,5 @@
 ---
-layout: artwork
+layout: page
 title: Artwork Inspired by Microbial Ecology
 ---
 

@@ -1,13 +1,8 @@
 ---
 layout: page
 title: My Scientific Journey
+lead: My Scientific Journey
 ---
-
-
-
-
-
-# My Scientific Journey
 My interest in microbial interactions began at Rutgers when researching a potential link between quorum sensing and the caspase-like activity found in the salt-loving Archaean, *Haloferax volcanii* under the supervision of Dr. Kay Bidle and Dr. Kelly Bidle at Rutgers University. I recieved my Bachelors of Marine Science from Rutgers in 2014. After undergrad, I pursued further research experience as a post-baccalaureate researcher at the FDA under the supervision of Dr. Scott Stibitz and Dr. Sheila Dreher-Lesnick, where I developed molecular assays for the regulatory testing of Live Biotherapeutic Products. In 2017, I began graduate school in the Department of Marine Sciences at the University of Georgia in the lab of Dr. Mary Ann Moran working with the Simons Foundation Principles of Microbial Ecology collaboration. My research centered around transposon sequencing and novel growth assays to characterize interactions between heterotrophic bacteria when provisioned with resources from living phytoplankton. 
  
 In addition to research, I engaged heavily with teaching and mentoring undergraduate students research skills. I had the opportunity to develop lab and lecture units as a teaching assistant and guest lecturer for a coastal field methods course at the University of Georgia Marine Institute on Sapelo Island. In this position, I taught students about microbial ecology and diversity using microscopy and classical marine science field techniques, as well as ensuring students' success in their indepedent research projects on marsh and estuarine ecology. In collaboration with the NSF Center for Chemical Currencies of a Microbial Planet, and a very helpful team of dedicated undergrads, I had the opportunity to help develop and pilot the [Ocean Genes Course-based Undergraduate Research Experience (CURE)](https://ccomp-stc.org/a-cure-for-ocean-carbon-cycling/), the goal of which is to diversity and broaden access to research education and careers in marine science by engaging students in authentic research. The Ocean Genes CURE is currently being taught at multiple institutions of higher learning.

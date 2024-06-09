@@ -12,6 +12,8 @@ I am a marine microbial ecologist who is passionate about understanding microbia
 
 [Artwork inspired by marine microbes](/artwork.md) 
 
+[Protocols](/Protocols.md)
+
 [Full CV](/cv.pdf) 
 {% include contact.html %}
 
